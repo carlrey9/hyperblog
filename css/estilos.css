@@ -1,5 +1,5 @@
 body {
-    color: #333;
+    color: #e73b3b;
     text-align: center;
     font-family: "Arial";
     font-size: 16xp;
@@ -33,7 +33,6 @@ body {
 
 #cabecera #tagline
 {
-    
     padding: 0 0 0 1em;
     font-weight: bold;
     font-size: 0.8em;
