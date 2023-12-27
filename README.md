@@ -11,6 +11,7 @@ En este curso vermos de todo:
 * Buenas practicas
 * Mucho mas
 * Best blog in the world
+* incluye ejemplos en varias plataformas
 
 como poner **Negrita** en medio
 
